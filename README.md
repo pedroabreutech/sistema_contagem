@@ -1,4 +1,4 @@
-# Sistema de Contagem de Multidão - Poder360
+# Sistema de Contagem de Multidão 
 
 Sistema de contagem de pessoas em imagens usando deep learning com a arquitetura CSRNet.
 
@@ -95,9 +95,9 @@ Sistema_Contagem/
 
 ## 👤 Autor
 
-Desenvolvido para Poder360
+Desenvolvido por Pedro 
 
 ## 📄 Licença
 
-Este projeto é de uso interno da Poder360.
+Este projeto é de uso privado 
 
